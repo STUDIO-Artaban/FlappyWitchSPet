@@ -13,4 +13,4 @@ Aidez nos deux comparses complètement... ensorcelés, à renter chez eux sain e
 **PS:** Evitez de jouer à FLAPPY Witch's Pet sous l'emprise de spiritueux... ENSORCELE QUOI!
 
 ____________________________________________________________________________________________
-Cette application est téléchargeable gratuitement sur le store de **Google Play** via ce [lien](https://play.google.com/store/apps/details?id=com.studio.artaban.witchspet).
+Cette application est téléchargeable gratuitement sur **Google Play** via ce [lien](https://play.google.com/store/apps/details?id=com.studio.artaban.witchspet), et depuis l'**AppStore** via ce [lien](https://itunes.apple.com/fr/app/flappy-witchs-pet/id912119217?mt=8).
